@@ -1,6 +1,6 @@
 # CARA INSTALL PACKAGE
 
-bash 
+
 ```
 $ pkg install update
 
